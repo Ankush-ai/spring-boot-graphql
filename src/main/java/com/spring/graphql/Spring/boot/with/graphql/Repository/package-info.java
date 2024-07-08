@@ -1,0 +1,1 @@
+package com.spring.graphql.Spring.boot.with.graphql.Repository;
